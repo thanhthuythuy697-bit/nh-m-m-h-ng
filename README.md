@@ -1,1 +1,46 @@
-# nh-m-m-h-ng
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Báo Tường Điện Tử – Mừng Tết Nguyên Đán</title>
+    <link rel="stylesheet" href="style12A1.css">
+</head>
+<body>
+    <header>
+    <h1>🌸 BÁO TƯỜNG ĐIỆN TỬ – MỪNG XUÂN 🌸</h1>
+</header>
+    <div class="navigation_menu region">
+    <ul>
+        <li><a href="trangchu.html">Trang chủ</a></li>
+        <li><a href="gioithieu.html">Giới thiệu</a></li>
+        <li><a href="phongtuc.html">Phong Tục</a></li>
+        <li><a href="amthucc.html">Ẩm Thực</a></li>
+        <li><a href="ynghia.html">Ý Nghĩa</a></li>
+         </ul>
+    </div>
+     <section id="trangchu.html">
+        <h1>Báo tường mừng xuân 2026</h1>
+            <p>Xin Chào Các Bạn. Tại đây, bạn có thể khám phá và tìm hiểu thêm về Tết Nguyên Đán thông qua các chuyên mục sau:</p>
+              <ul>
+                <li>Giới Thiệu Về Tết Nguyên Đán</li>
+                <li>Phong Tục Truyền Thống</li>
+            <li>Ẩm Thực Truyền Thống </li>
+            <li>Ý Nghĩa dịp Tết Nguyên Đán</li>
+        </ul>
+        <div class="image">
+        <img src="ngựa.jfif" width="500" height="350">
+    </div>
+    </section>
+    <div class="footer region">
+    </div>
+    </section>
+    <div class="footer region">
+            <p><strong>BÁO TƯỜNG ĐIỆN TỬ MỪNG TẾT- LỚP 12A1</strong></p>
+            <p>email: vinhxuana1@gmail,com</p>
+             <p> một số hình ảnh được lấy từ internet</p>
+        </div>
+    </body>
+    </html>
+</body>
+</html>
