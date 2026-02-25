@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Báo Tường Điện Tử – Mừng Tết Nguyên Đán</title>
+    <link rel="stylesheet" href="style12A1.css">
+</head>
+<body>
+    <header>
+    <h1>🌸 BÁO TƯỜNG ĐIỆN TỬ – MỪNG XUÂN 🌸</h1>
+    </header>
+    <div class="navigation_menu region">
+    <ul>
+        <li><a href="trangchu.html">Trang chủ</a></li>
+        <li><a href="gioithieu.html">Giới thiệu</a></li>
+        <li><a href="phongtuc.html">Phong Tục</a></li>
+        <li><a href="amthucc.html">Ẩm Thực</a></li>
+ <li><a href="ynghia.html">Ý Nghĩa</a></li>
+    </ul>
+</div>
+    <section id="gioithieu.html">       
+    <div class="container">
+    <h1>Tết Nguyên Đán – Nét Đẹp Truyền Thống</h1>
+    <p>Tết Nguyên Đán là khoảnh khắc thiêng liêng khi năm cũ khép lại, năm mới bắt đầu. Đó là lúc mọi người trở về bên gia đình, quây quần bên mâm cơm ấm áp, cùng nhau nhớ về tổ tiên và gửi gắm những ước mong tốt đẹp. Tết mang theo hương vị sum vầy, niềm hy vọng và những lời chúc an lành cho một năm mới đủ đầy, hạnh phúc.Đây không chỉ là thời điểm chuyển giao giữa hai năm mà còn mang ý nghĩa sâu sắc về sự tái sinh của thiên nhiên, lòng biết ơn tổ tiên và niềm hi vọng vào một năm mới an khang thịnh vượng. Từ bao đời nay Tết đã trở thành một biểu tượng của bản sắc văn hóa Việt gắn kết các thế hệ và giữ gìn những giá trị tốt đẹp của dân tộc.</p>
+    <h4><em>"Xuân về phú quý đầy tay, bình an, mạnh khỏe tháng ngày yên vui."</em></h4><br>
+    <div class="image">
+<img src="hoa.jpg" alt="hoa" width="500" height="350">
+    </div>
+<h2>Không Khí Ngày Tết</h2>
+<p>
+    Ngày Tết mang theo sắc đỏ của câu đối, sắc vàng của hoa mai, 
+    sắc hồng của hoa đào và niềm vui rộn ràng trong từng ngôi nhà. 
+    Những phong tục đẹp như chúc Tết, lì xì, gói bánh chưng 
+    đã trở thành nét văn hóa truyền thống tốt đẹp.
+</p>
+<h3> Video</h3>
+    <div class="video">
+    <video src="videotet.mp4" autoplay controls></video>
+</div>
+</section>
+<div class="footer region">
+            <p><strong>BÁO TƯỜNG ĐIỆN TỬ MỪNG TẾT- LỚP 12A1</strong></p>
+            <p>email: vinhxuana1@gmail,com</p>
+            <p> một số hình ảnh được lấy từ internet</p>
+        </div>
+</body>
+    </html>
+</body>
+</html>
